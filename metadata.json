@@ -1,5 +1,7 @@
 {
   "name": "Copy of AI Vibe Coding Platform",
   "description": "An AI-powered platform where you can bring your app ideas to life. Describe your concept, and our AI will generate the complete React source code and a live preview for you.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
